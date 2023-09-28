@@ -12,17 +12,17 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (4 pts)
 
-_____ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
+___YES__ 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
 
-_____ 1 pt: Program queries user for number of conversation rounds
+___YES__ 1 pt: Program queries user for number of conversation rounds
 
-_____ 1 pt: Program carries out requested number of conversation rounds
+___PART__ 1 pt: Program carries out requested number of conversation rounds
 
-_____ 1 pt: Allocates static array of canned responses
+___YES__ 1 pt: Allocates static array of canned responses
 
 ### Level 2 (3 pts)
 
-_____ 1 pt: Uses a canned response when no mirror words detected
+___YES__ 1 pt: Uses a canned response when no mirror words detected
 
 _____ 1 pt: Detects the requested set of mirror words (at minimum)
 
@@ -48,21 +48,21 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+___PART__ 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+___PART__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+__PART___ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      ___YES__ Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      ___YES__ Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      ___YES__ Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      ___PART__ Methods avoid confusing side effects
 
 _____ 1 pt: All required files included with submission (including completed checklist file)
 
